@@ -2,6 +2,7 @@ name: "What's Kraken?"
 favicon: null
 layout_spectrum: 0.07456781738437712
 typography_spectrum: 0.42973529105074704
+title: "What's Kraken?"
 cta:
   domain: null
   bucket: null
