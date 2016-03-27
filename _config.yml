@@ -1,0 +1,28 @@
+name: "What's Kraken?"
+favicon: null
+layout_spectrum: 0.07456781738437712
+typography_spectrum: 0.42973529105074704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11149094440042973
+  lightness: 0.11549347476102412
+  saturation: 0.10831266385503113
+  rhythmicContrast: 0.8049031533300877
+purpose: []
